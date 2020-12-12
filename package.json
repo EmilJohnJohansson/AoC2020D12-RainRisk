@@ -1,0 +1,20 @@
+{
+  "name": "aoc2020d12-rainrisk",
+  "version": "1.0.0",
+  "description": "The ship's navigation computer seems to be malfunctioning!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js example.txt",
+    "start": "node index.js input.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilJohnJohansson/AoC2020D12-RainRisk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilJohnJohansson/AoC2020D12-RainRisk/issues"
+  },
+  "homepage": "https://github.com/EmilJohnJohansson/AoC2020D12-RainRisk#readme"
+}
